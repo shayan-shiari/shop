@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://v1.fontapi.ir/css/Vazir:300;400;500;700;900');
+
+* {
+    font-family: Vazir, sans-serif;
+}
